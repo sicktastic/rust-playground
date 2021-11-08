@@ -1,4 +1,7 @@
 *.swp
 *.DS_Store
 *.rcgu.o
-*/target/debug
+*/target/debug/*
+*/target/*
+
+hello_world/target
